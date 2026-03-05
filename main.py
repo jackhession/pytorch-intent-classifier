@@ -44,4 +44,4 @@ while True:
             if tag == intent["tag"]:
                 print("Jarvis:", random.choice(intent["responses"]))
     else:
-        print("EURI: Sorry, I didn't understand.")
+        print("Jarvis: Sorry, I didn't understand.")
